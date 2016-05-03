@@ -18,6 +18,7 @@ public class Suma_CujanoBrayan {
         // TODO code application logic here
         System.out.println("brayan cujano");
         //Este mensaje es escrito por mi Andres
+        //Este mensaje es escrito por mi Jonathan
     }
     
 }
